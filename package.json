@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ravi-Jaiswal-maker/ApplyNowBackend/issues"
   },
-  "homepage": "https://github.com/Ravi-Jaiswal-maker/ApplyNowBackend#readme"
+  "homepage": "https://github.com/Ravi-Jaiswal-maker/ApplyNowBackend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
